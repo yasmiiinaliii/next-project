@@ -1,0 +1,90 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Speeed Bike",
+            "price": 1005,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://bikepacking.com/wp-content/uploads/2021/09/Tumbleweed-Stargazer-Review-Video_00.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Tumbleweed Stargazer",
+            "price": 1099,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://bikepacking.com/wp-content/uploads/2021/08/Tumbleweed-Stargazer-Review_41.jpg"
+        }
+        ,
+        {
+            "id": 3,
+            "title": "Gray",
+            "price": 1595,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://bikepacking.com/wp-content/uploads/2021/08/Tumbleweed-Stargazer-Review_42.jpg"
+        }
+        ,
+        {
+            "id": 4,
+            "title": "Gray",
+            "price": 1595,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://bikepacking.com/wp-content/uploads/2021/08/Tumbleweed-Stargazer-Review_43.jpg"
+        }
+        ,
+        {
+            "id": 5,
+            "title": "Yellow Bike",
+            "price": 1595,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://media.theradavist.com/uploads/2018/05/Peppers-Tumbleweed-Prospector-Rohloff-Peru-Divide-Touring-Bike-1.jpg?fit=2000,2000&quality=75"
+        }
+        ,
+        {
+            "id": 6,
+            "title": "Yellow Bike",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://cyclingtips.com/wp-content/uploads/2021/11/Santa-Cruz-Highball-XC-gravel-bikes-of-the-bunch-cyclingtips-Alex-J-Wissmann-10.jpg"
+        }
+         ,
+        {
+            "id": 7,
+            "title": "Green Bike",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/21/2022/04/Cairn-Brave-01-e2d87a6.jpg?quality=90&resize=768,574"
+        }
+         ,
+        {
+            "id": 8,
+            "title": "Blue Bike",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://s14761.pcdn.co/wp-content/uploads/sites/3/2021/11/Trek-Supercaliber-9.8-GX-Test-Review-Gravel-Mountainbike-2021-069-1140x760.jpg"
+        }
+         ,
+        {
+            "id": 9,
+            "title": "Bike for Mounten",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/fl_sanitize/focus/gene-cms/f/o/focus-bikes-bosch-e-mtb-e-is-for-everyone-jam_-sun_1_4.jpg"
+        }
+         ,
+        {
+            "id": 9,
+            "title": "Bike for Mounten",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/fl_sanitize/focus/gene-cms/f/o/focus-bikes-bosch-e-mtb-e-is-for-everyone-jam_-sun_1_4.jpg"
+        }
+         ,
+        {
+            "id": 10,
+            "title": "Amazing Bike",
+            "price": 1490,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "image": "https://i.pinimg.com/736x/46/66/f9/4666f969baeb85a616c1deb57119b82e--carousel-designs-pod.jpg"
+        }
+    ]
+}

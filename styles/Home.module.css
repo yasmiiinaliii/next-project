@@ -1,6 +1,6 @@
-.container {
+/* .container {
   padding: 0 2rem;
-}
+} */
 
 .main {
   min-height: 100vh;
@@ -15,10 +15,11 @@
 .footer {
   display: flex;
   flex: 1;
-  padding: 2rem 0;
+  padding: 1rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  color: white;
 }
 
 .footer a {
@@ -113,4 +114,11 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.footer-container{
+  position: fixed;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
 }
