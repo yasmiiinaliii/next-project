@@ -1,5 +1,10 @@
+import About from "../components/About"
+
 function about(){
-return <h1> about page</h1>
+return <>
+<div className="m-5">- </div>
+<About/>
+</>
 }
 
 export default about
